@@ -1,0 +1,134 @@
+
+
+
+.HomeButtons{
+display: flex;
+
+list-style: none;
+font-family: "Poppins", sans-serif;
+font-weight: 300;
+font-style: normal;
+gap: 20px;
+justify-content: center;
+padding-top: 10px;
+
+}
+.spann{color: white;}
+.body{
+  background-image: linear-gradient(to right top, #051937, #001b4b, #0d1b5e, #26156e, #42007a);}
+
+.innercontainer{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+
+}
+p{
+  
+  color: white;
+
+}
+h3{
+  color: white;
+
+font-size: 15px;
+font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-style: normal;
+white-space: nowrap;
+padding-top: 13px;
+margin-left: 5px;
+}
+.Hello{
+padding-left: 10px;
+color: aliceblue;
+background-color: #0F0842;
+
+}
+.square{
+height: 70%;
+background-color: rgba(33, 51, 32, 0.37);
+
+
+}
+.footer{background-color: #0F0842;
+
+
+}
+  h1{
+  color: white;
+}
+.pff{
+border-radius: 50%;
+  border-style:solid;
+  border-width: 3px;
+  border-color: aliceblue;
+}
+.spacing{
+  margin-top: 10%;
+}
+h4{
+font-size: 15px;
+color: white;
+
+}
+.h44{
+
+  font-size: 20px;
+}
+.idk{
+
+  background-color: #0F0842;
+  height: 100%;
+
+  width: 70%;
+  border-radius: 50%;
+margin-left: 10%;
+}
+.circle{
+
+  background-color: rgb(40, 2, 100);
+  border-radius: 60%;
+  padding-left: 20%;
+  border-color: rgb(143, 107, 107);
+
+}
+h2{
+  color: white;
+  font-size: 80px;
+}
+.margindiv{
+margin-top: 10%;
+
+}
+.pfp{
+padding-top: 5%;
+
+}
+.pfp3{
+  border-radius: 50%;
+  border-color: aliceblue;
+  
+}
+h5{
+font-size: 50px;
+color: white;
+}
+ul{
+width: 70ch;
+color: white;
+
+}
+.holo{
+  justify-content: center;
+}
+.box{
+
+  margin-top: 20%;
+
+}
+.h22{
+  font-size: 100px;
+  font-weight: 500;
+}
