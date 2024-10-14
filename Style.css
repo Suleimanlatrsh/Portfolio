@@ -13,6 +13,7 @@ body {
   max-width: 1200px; /* Set max width for the container */
   width: 100%; /* Allow it to fill the space on the sides */
   margin: 0 auto; /* Center the container */
+  
   padding: 20px;
 }
 
